@@ -1,0 +1,6 @@
+C:\Users\Training\Documents\Training Projects\FileUploading\FileUploading\bin\FileUploading.dll.config
+C:\Users\Training\Documents\Training Projects\FileUploading\FileUploading\bin\FileUploading.dll
+C:\Users\Training\Documents\Training Projects\FileUploading\FileUploading\bin\FileUploading.pdb
+C:\Users\Training\Documents\Training Projects\FileUploading\FileUploading\obj\Debug\FileUploading.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Training Projects\FileUploading\FileUploading\obj\Debug\FileUploading.dll
+C:\Users\Training\Documents\Training Projects\FileUploading\FileUploading\obj\Debug\FileUploading.pdb
